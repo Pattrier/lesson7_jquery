@@ -1,0 +1,8 @@
+Extra Credit
+
+I used the last and after method to add "Heyyo this was added after" to the last node
+in the "p" category. 
+
+I used width, .add, and other methods to add .css to both the li nodes and the p nodes.
+
+I added a yellow underline to the ingredients and made a green box with a dotted black border around the instructions

@@ -17,6 +17,6 @@ Web Application Development
 
 ### Lessons Learned in the Assignment:
 1. (Jquery is a Javascript Library that also easy dynamic functionality )
-2. (.add() allows you to create a new Jquery object with elements)
-3. (Jquery allows to the easily traverse the DOM)
+2. ()
+3. (Briefly describe a lesson/concept learned in this lesson.)
 
